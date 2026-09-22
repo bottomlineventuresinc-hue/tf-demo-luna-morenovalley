@@ -1,0 +1,12 @@
+PHOTO SOURCES — hs-034-luna Luna Plumbing (Wave 7 2026-09-22 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — residential plumbing pipes/valves (verified; NOT window cleaner)
+services-trade.jpg — pipes/gas piping set (verified)
+job041-* — pipe/fitting B/A typical (verified prior-wave library)
+job-elec-* slots — faucet/fixtures + under-sink (verified)
+job052-* — copper/fixture support typical (verified; no invented Modesto site claim)
+people-* — tools/toolbox/crew — NOT owner face
+coverage-house.jpg — residential exterior
+Rejected: window cleaner, stock faces, workers-as-pipes mislabel, Modesto lunaplumbing.com claim
+Sources: Wave6/7 Unsplash/Pexels verified 2026-09-22 PT + prior Wave library
