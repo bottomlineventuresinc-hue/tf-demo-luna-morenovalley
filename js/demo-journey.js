@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing repair, water heater work, and fixture installs across Moreno Valley and the Inland Empire. You get a fixed itemised quote before we start, Horacio as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Plumbing and water heaters. Across Moreno Valley and the Inland Empire. Horacio looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Plumbing and sprinklers,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Moreno Valley plumbing<br>and water heaters,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Plumbing repair (written programme)';
+          serviceFirst.textContent = 'Water heater replacement (written price)';
         }
       }
     }
