@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing and water heaters. Across Moreno Valley and the Inland Empire. Horacio looks at the job first and puts the price in writing.';
+            'Plumbing and water heaters in Moreno Valley. Horacio looks at the job first and puts the price in writing.';
         }
       }
     },
